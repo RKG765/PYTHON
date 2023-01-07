@@ -1,0 +1,10 @@
+# pass is a null statement in python
+# it instructs to do nothing
+def run(player):
+    pass
+i = 4
+if i>0:
+    pass
+while i>6:
+    pass
+print("raj is bad")

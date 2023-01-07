@@ -1,0 +1,8 @@
+r = opeaning a file for reading 
+w = opeaning a file for writing
+a = opeaning a file for appending(editing in the end)
++ = opeaning a file for updating
+
+some important notes
+'rb'= means opeaning a file for reading in binary mode
+'rt'= means opeaning a file for reading in text mode
