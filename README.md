@@ -1,2 +1,2 @@
-# CSS
+# Python
 Basic to intermidate
