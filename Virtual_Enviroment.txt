@@ -1,0 +1,10 @@
+'''It is a code in python,
+where we can create a new enviroment for  our other works 
+which is isolated  from our previous work
+# It is inatalled by using the follwoing codes
+# intall virualenv filename
+# to open it write in your terminal as 
+# .\filename\Scripts\activate.ps1'''
+# Now using pip freeze to see the how many modules are used in the current enviroment
+# to make all modules in a new file type the following
+# pip freeze > filename.txt

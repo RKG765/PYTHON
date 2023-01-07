@@ -1,0 +1,4 @@
+to create virtual  enviroment you need to go to terminal type the following--->
+virtualenv filename
+for opening it you have to type
+.\filename\Scripts\activate.ps1
